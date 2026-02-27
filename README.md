@@ -1,6 +1,8 @@
 # Tripodal_Piezoelectric_Robot
 
-![Uploading image.png…]()
+<img width="2545" height="1364" alt="14bf23b6-1cb8-4939-a44e-f2bd1102ed04" src="https://github.com/user-attachments/assets/2bc7a6dd-ed97-44f7-a188-e090f5443cf2" />
+
+
 
 
 This repository contains the software for controlling a custom three-legged robot and performing real-time panoramic image stitching, as described in our submission to *Nature Communications*. The software integrates robotic gait modulation with automated visual data collection.
